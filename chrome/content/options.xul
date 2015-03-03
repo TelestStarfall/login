@@ -19,10 +19,10 @@
 		<tabpanels flex="1">
             <tabpanel flex="1" orient="vertical">
 				<hbox>
-					<label id="login" value="Login"/><textbox defaultpref="Telest"/>
+					<label value="Login"/><textbox id="login"/>
 				</hbox>
 				<hbox>
-					<label id="passwd" value="Mot de passe"/><textbox defaultpref="********"/>
+					<label value="Mot de passe"/><textbox id="passwd"/>
 				</hbox>
             </tabpanel>
             <tabpanel flex="1" orient="vertical">
