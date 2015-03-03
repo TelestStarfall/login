@@ -10,6 +10,6 @@ function onDialogAccept()
 	Services.prefs.setIntPref("extensions.button_login.password", parseInt(passwd));
 }
 
-function onDialogAccept(){
+function onDialogCancel(){
 
 }
