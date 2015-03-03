@@ -1,5 +1,5 @@
 # login
-Retreive login and password information
+Retrieve login and password information
 
 Hey it's Telest starfall.
 Thanks for cooperate with a newbie developer.
