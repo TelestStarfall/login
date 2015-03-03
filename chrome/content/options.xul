@@ -9,7 +9,7 @@
 		ondialogaccept="onDialogAccept();"
         ondialogcancel="onDialogCancel();">
 
-    <!-- <script type="application/x-javascript" src="chrome://button_options/content/options.js"/> -->
+    <script type="application/x-javascript" src="chrome://button_options/content/options.js"/>
 
     <tabbox id="option">
         <tabs>
