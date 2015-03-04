@@ -6,8 +6,8 @@ var lm = Components.classes["@mozilla.org/login-manager;1"].getService(
 function onLoad(){
 	var username;
 	var password;
-	let passwd = document.getElementById("passwd").value;
-	let login = document.getElementById("login").value;
+	let passwd = document.getElementById("passwd");
+	let login = document.getElementById("login");
 	
 	try { 
 		//Recherche selon les critères
